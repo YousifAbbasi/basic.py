@@ -1,2 +1,4 @@
 # basic.py
-Introducing you to the my world of Python programming! 
+print("hello world")
+print(2+2)
+print("this is  simple python code \nThanks  ! ")
